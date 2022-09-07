@@ -1,5 +1,5 @@
 {
-  "name": "@nolram/serverless-simplify-default-exec-role-plugin",
+  "name": "@shelf/serverless-simplify-default-exec-role-plugin",
   "version": "0.0.3",
   "description": "serverless-simplify-default-exec-role-plugin",
   "license": "MIT",
